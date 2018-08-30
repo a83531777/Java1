@@ -1,0 +1,13 @@
+package swtingtry;
+import java.awt.*;
+import javax.swing.*;
+
+public class T1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		JFrame A=new JFrame();
+		A.setTitle("ÎÄ¼şÏÂÔØÆ÷");
+	}
+
+}
